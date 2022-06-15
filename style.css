@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#show-gifs{
+    display: block;
+}
+
+#show-gifs.hidden{
+    display:none;
+}
+
+h1{
+    color: white;
+}
+
+label{
+    color:white;
+}
+
+body{
+    background-color: black;
+}
+
+html {
+    display: table;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.header{
+    display: table;
+    margin: auto;
+    padding:20px;
+}
+
+#gif-results{
+    display: table;
+    margin: auto;
+}
